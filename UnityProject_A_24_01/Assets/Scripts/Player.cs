@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Player : MonoBehaviour
+public class NewBehaviourScript : MonoBehaviour
 {
     public Text TextUI = null;  //텍스트UI
     public int Count = 0;  //마우스 클릭 카운터
